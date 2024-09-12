@@ -1,0 +1,7 @@
+echo "' fortuna-minerv2" >> README.md
+git init
+git add README.md
+git commit -m "erste commit"
+git branch -M main
+git remote punktet https://github.com/RoSa2024cloud/fortuna-minerv2.git
+git push -u origin main
